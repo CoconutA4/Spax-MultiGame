@@ -47,12 +47,11 @@
   </p>
   
  ----------------------------
-
- <h2 align='left'><u><b>Version</u></b></h2>
- ♥️ Version 1.0 ♥️
- &bull Using https://github.com/CoconutA4/Python-Guessing-Game-with-MultiPlayer-and-AI
- &bull Using https://github.com/CoconutA4/Adrift-at-sea
- &bull Using https://github.com/CoconutA4/Snaky
+ 
+   <h2><u><b>  ♥️ Version 1.0 ♥️ </b></u></h3> 
+   &bull; Using https://github.com/CoconutA4/Python-Guessing-Game-with-MultiPlayer-and-AI <br>
+   &bull; Using https://github.com/CoconutA4/Adrift-at-sea <br>
+   &bull; Using https://github.com/CoconutA4/Snaky <br>
  
  <h2><u><b>Installation</u></b></h2>
  
