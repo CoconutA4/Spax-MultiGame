@@ -44,13 +44,13 @@
    &bull; There's 1 line gap between everything, besides if's <br>
    &bull; I like to make a lot of functions, therefor if u want to expand the code is quite easy <br>
 
-
   </p>
   
  ----------------------------
 
  <h2 align='left'><u><b>Version</u></b></h2>
  ♥️ Version 1.0 ♥️
+ Using https://github.com/CoconutA4/Python-Guessing-Game-with-MultiPlayer-and-AI
  
  <h2><u><b>Installation</u></b></h2>
  
