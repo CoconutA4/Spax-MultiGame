@@ -17,7 +17,7 @@
  </p>
  
  <p>
-   <h2><u><b> ♥️ How to play? / (How it works) - Snake game </b></u></h3> 
+   <h2><u><b> ♥️ How to play? / (How it works) - Guessing game </b></u></h3> 
    &bull; As soon as you start, the console will ask your name (and store it in the var myName) <br>
    &bull; When the console knows your name it will ask if you want to play the tutorial (if you say yes it initiates the tut function, else it just moves on to var modeselector)<br>
    &bull; After selecting your game mode, the program starts the specific function (sp, ai or mp) <br>
