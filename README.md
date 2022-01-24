@@ -50,14 +50,15 @@
 
  <h2 align='left'><u><b>Version</u></b></h2>
  ♥️ Version 1.0 ♥️
- Using https://github.com/CoconutA4/Python-Guessing-Game-with-MultiPlayer-and-AI
- Using https://github.com/CoconutA4/Adrift-at-sea
+ &bull Using https://github.com/CoconutA4/Python-Guessing-Game-with-MultiPlayer-and-AI
+ &bull Using https://github.com/CoconutA4/Adrift-at-sea
+ &bull Using https://github.com/CoconutA4/Snaky
  
  <h2><u><b>Installation</u></b></h2>
  
  Install using git bash<code> $git clone https://github.com/monkeythatprograms/Spax-Multigame </code><br>
  os click download button 👇 <br>
- <a href="https://github.com/monkeythatprograms/pythontic/raw/main/Finished3Game-consule.exe" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
+ <a href="https://github.com/CoconutA4/Spax-MultiGame/releases/download/v1.0/Spax-multigame.exe" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
  
 <h2 align="left"><b>Connect with me</b></h4>
 <p align="left">
