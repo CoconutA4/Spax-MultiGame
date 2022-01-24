@@ -51,6 +51,7 @@
  <h2 align='left'><u><b>Version</u></b></h2>
  ♥️ Version 1.0 ♥️
  Using https://github.com/CoconutA4/Python-Guessing-Game-with-MultiPlayer-and-AI
+ Using https://github.com/CoconutA4/Adrift-at-sea
  
  <h2><u><b>Installation</u></b></h2>
  
